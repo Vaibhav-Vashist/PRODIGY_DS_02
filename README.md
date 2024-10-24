@@ -36,5 +36,5 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a>https://www.linkedin.com/in/vaibhav-vashist-9b06342ba(LinkedIn)</a>
+- LinkedIn: <a>https://www.linkedin.com/in/vaibhav-vashist-9b06342ba(LinkedIn)</a>
 - Email: mailto:vaibhavvashist52@gmail.com
